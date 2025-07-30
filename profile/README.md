@@ -7,7 +7,7 @@
 <!--       HEADER IMAGE     -->
 <!-- ======================= -->
 <p align="center">
-  <img src="https://www.sbot.co/static/media/logo-sbot.123abc.png" alt="SBOT Logo" width="240"/>
+  <img src="https://static.wixstatic.com/media/164a3a_eb979a9ac1384f8ebf9e3b3f03fb6552~mv2.png/v1/fill/w_146,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20sbot.png" alt="SBOT Logo" width="240"/>
 </p>
 
 # SBOT – Testing as Code  
