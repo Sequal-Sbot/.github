@@ -1,7 +1,7 @@
 <!-- ======================= -->
 <!--        BADGES          -->
 <!-- ======================= -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]() [![Coverage](https://img.shields.io/badge/coverage-95%25-green)]() [![Slack](https://img.shields.io/badge/chat-Slack-4A154B.svg)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40SequalSAS-blue.svg)](https://www.linkedin.com/company/sequal-sas/)
+[![SBOT](https://img.shields.io/website?url=https%3A%2F%2Fwww.sbot.co)](https://www.sbot.co) [![Sequal SAS](https://img.shields.io/website?url=https%3A%2F%2Fsequal.com.co)](https://sequal.com.co) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <!-- ======================= -->
 <!--       HEADER IMAGE     -->
@@ -47,5 +47,22 @@ SBOT es la plataforma de **Testing as Code** de Sequal SAS, diseñada para cat
 
 ---
 
-## 📚 Caso de Éxito Destacado  
-> “Un líder del retail colombiano redujo su time‑to‑market en un 25 % e incrementó conversiones en un 5 % gracias a SBOT.”  
+## 🌟 Caso de Éxito
+
+**Cliente**: Cadena de retail líder en Colombia  
+**Reto**: El cliente experimentaba ciclos de regresión de pruebas de **5 días**, lo cual retrasaba lanzamientos críticos y generaba cuellos de botella en el equipo de desarrollo. Además, la cobertura de pruebas era inferior al 60 %, lo que incrementaba el riesgo de defectos en producción.
+
+**Solución con SBOT**:  
+1. **Implementación Low‑Code**: El equipo de QA, sin experiencia previa en scripting avanzado, configuró y versionó sus pruebas directamente en SBOT.  
+2. **Pipeline Integrado**: Se integró SBOT en el flujo de CI/CD existente (GitLab CI), automatizando la ejecución de pruebas en cada ‘merge request’.  
+3. **Monitoreo y Reportes**: Con los dashboards de SBOT, los gerentes de proyecto accedieron a KPIs de cobertura y tiempo de ejecución en tiempo real.
+
+**Resultados**:  
+- **Reducción de regresión** de **5 días** a **1 día** (–80 %).  
+- **Cobertura** incrementada de **58 %** a **82 %** (+24 %).  
+- **Time‑to‑Market** acelerado en **25 %**, permitiendo cuatro lanzamientos adicionales en el trimestre.  
+- **Costos de retrabajo** reducidos en **15 %** gracias a la detección proactiva de defectos.
+
+> “Con SBOT, pasamos de esperar una semana para validar cada release, a tener feedback completo en menos de 24 horas. Esto transformó nuestra capacidad de respuesta y la confianza al desplegar en producción.” – *Gerente de QA*
+
+---
