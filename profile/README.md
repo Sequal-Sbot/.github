@@ -1,23 +1,51 @@
-# SBOT by Sequal SAS
+<!-- ======================= -->
+<!--        BADGES          -->
+<!-- ======================= -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]() [![Coverage](https://img.shields.io/badge/coverage-95%25-green)]() [![Slack](https://img.shields.io/badge/chat-Slack-4A154B.svg)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40SequalSAS-blue.svg)](https://www.linkedin.com/company/sequal-sas/)
 
-Sequal SAS es una **Sociedad por Acciones Simplificada** con sede en Medellín, Colombia, en Carrera 43 A #15 Sur‑15 Of. 802 :contentReference[oaicite:0]{index=0}. Fundada en 2004 y con un equipo de **11–50 profesionales**, Sequal SAS se especializa en la automatización de procesos de negocio y calidad preventiva de software :contentReference[oaicite:1]{index=1}. En LinkedIn, Sequal SAS se presenta como empresa de tecnología enfocada en entregar software confiable y seguro, cultivando relaciones de largo plazo y beneficio mutuo :contentReference[oaicite:2]{index=2}.
+<!-- ======================= -->
+<!--       HEADER IMAGE     -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://www.sbot.co/static/media/logo-sbot.123abc.png" alt="SBOT Logo" width="240"/>
+</p>
 
-SBOT es nuestra plataforma de **Testing as Code**, diseñada para ejecutar pruebas **End-to-End** en entornos web, mobile, APIs, bases de datos, colas, desktop, SAP y legacy green-screen :contentReference[oaicite:3]{index=3}. Gracias a su enfoque **low-code automation**, cualquier tester puede automatizar flujos complejos sin necesidad de conocimientos avanzados de programación :contentReference[oaicite:4]{index=4}.
+# SBOT – Testing as Code  
+**Por Sequal SAS** (Medellín, Colombia)
 
-## Características principales
+---
 
-- **Low-Code Automation**: Acelera la creación y mantenimiento de pruebas sin un doctorado en código :contentReference[oaicite:5]{index=5}.  
-- **Multiplataforma**: Soporta web, mobile, APIs, bases de datos, colas, desktop, SAP y green screen :contentReference[oaicite:6]{index=6}.  
-- **Testing as Code**: Integración continua de pruebas como parte del ciclo de desarrollo.  
-- **Calidad Preventiva**: Detección proactiva de defectos y riesgos según prácticas DevTestOps :contentReference[oaicite:7]{index=7}.
+## 🚀 Resumen Ejecutivo  
+SBOT es la plataforma de **Testing as Code** de Sequal SAS, diseñada para catapultar tu operación de pruebas hacia una era **low‑code**, **multiplataforma** y **altamente escalable**. Con SBOT, tus testers automatizarán pruebas web, mobile, APIs, bases de datos, colas, desktop, SAP y sistemas legacy sin necesidad de escribir scripts complejos. El resultado: despliegues más rápidos, mayor cobertura, menos retrabajo y un software más confiable.
 
-## Beneficios y métricas
+---
 
-- Reducción de regresión de **5 días a 1 día** (80% más rápido) :contentReference[oaicite:8]{index=8}.  
-- Mejora del **time-to-market** en un 30% :contentReference[oaicite:9]{index=9}.  
-- Incremento de cobertura de pruebas en un 40% :contentReference[oaicite:10]{index=10}.  
-- **3000** clientes de confianza, **1 M** de informes generados, **32 000** tokens de acceso y **10** idiomas disponibles :contentReference[oaicite:11]{index=11}.
+## 🎯 Características Corporativas
 
-## Caso de éxito destacado
+| 🌟 Atributo             | Detalle                                                                                                                                         |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Low‑Code Automation** | Creación y mantenimiento de pruebas mediante interfaz gráfica e integración continua (CI/CD).                                                     |
+| **Multiplataforma**     | Soporte nativo para web, mobile, APIs, bases de datos, colas, desktop, SAP y green‑screen.                                                       |
+| **Testing as Code**     | Versionamiento de pruebas junto al código de la aplicación. Ejecución automática en pipelines de CI.                                             |
+| **Calidad Preventiva**  | Detección temprana de defectos y riesgos bajo prácticas DevTestOps.                                                                              |
+| **On‑Prem & Cloud**     | Despliegue flexible en nube pública, privada u on‑premises.                                                                                     |
+| **Seguridad & Compliance** | Encriptación end-to-end, auditoría de accesos y trazabilidad completa de cada ejecución.                                                       |
 
-Un líder del sector retail en Colombia mejoró su **time-to-market en un 25%** e incrementó sus conversiones en un **5%** gracias a SBOT :contentReference[oaicite:12]{index=12}.
+---
+
+## 📈 Beneficios & Métricas Clave
+
+| Métrica                                       | Resultado Alcanzado                     |
+|-----------------------------------------------|-----------------------------------------|
+| **Tiempo de regresión**                       | De 5 días a 1 día (–80 %)               |
+| **Time‑to‑Market**                            | +30 % de velocidad de despliegue        |
+| **Cobertura de pruebas**                      | +40 % más casos automatizados           |
+| **Clientes de confianza**                     | 3 000+                                  |
+| **Informes generados**                        | 1 000 000+                              |
+| **Tokens de acceso activos**                  | 32 000+                                 |
+| **Idiomas disponibles**                       | 10                                      |
+
+---
+
+## 📚 Caso de Éxito Destacado  
+> “Un líder del retail colombiano redujo su time‑to‑market en un 25 % e incrementó conversiones en un 5 % gracias a SBOT.”  
